@@ -91,8 +91,8 @@ window.toggleMarkers = function(tecnologia) {
   updateLegendStyle();
 };
 
-// Read CSV data and add markers to the cluster group
-d3.json('../centrales_generacion_mexico.json').then((plants) => {
+// Read json data and add markers to the cluster group
+d3.json('https://ivanco19.github.io/ElectricityVisualizationMex/centrales_generacion_mexico.json').then((plants) => {
   plants.forEach((plant) => {
     let coordenates = L.latLng(plant.Latitud, plant.Longitud);
     let capacidad = parseFloat(plant.Capacidad);
