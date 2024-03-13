@@ -1,5 +1,5 @@
 // Read CSV file
-var rawDataURL = '../electric_generation_cenace_2018-2023.json'
+var rawDataURL = 'https://ivanco19.github.io/ElectricityVisualizationMex/electric_generation_cenace_2018-2023.json';
 
 // Global variable to store all original data
 let datos = []
