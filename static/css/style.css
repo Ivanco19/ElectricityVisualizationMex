@@ -1,0 +1,47 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#map,
+body,
+html {
+  height: 97%;
+}
+
+#main {
+  height: 580px;
+  margin: 0;
+  background-image: url('../images/mexico.png');
+  background-position-x: center;
+  background-position-y: bottom;
+  background-repeat: no-repeat;
+}
+
+#titulo {
+  margin-top: 150px;
+}
+
+.legend {
+  line-height: 18px;
+  color: #555;
+  background-color: #ffffff;
+}
+.legend i {
+  width: 22px;
+  height: 22px;
+  float: left;
+  margin-right: 10px;
+  opacity: 0.7;
+}
+
+.legend div {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  transition: color 0.3s, font-weight 0.3s;
+}
+
+.legend div.active {
+  color: #DCDCDC; 
+}

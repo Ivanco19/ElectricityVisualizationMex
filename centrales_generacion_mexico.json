@@ -1,0 +1,1458 @@
+[
+    {
+        "Nombre": "CT Carbon II",
+        "Capacidad": "1400",
+        "Entidad": "Coahuila",
+        "Tecnologia": "Carboelectrica",
+        "Latitud": "28.4682379",
+        "Longitud": "-100.7029"
+    },
+    {
+        "Nombre": "CT Jose Lopez Portillo (Rio Escondido)",
+        "Capacidad": "1285",
+        "Entidad": "Coahuila",
+        "Tecnologia": "Carboelectrica",
+        "Latitud": "28.4844162",
+        "Longitud": "-100.692266"
+    },
+    {
+        "Nombre": "CT Plutarco Elias Calles (Petacalco)",
+        "Capacidad": "2778.4",
+        "Entidad": "Guerrero",
+        "Tecnologia": "Carboelectrica",
+        "Latitud": "17.981411",
+        "Longitud": "-102.1229"
+    },
+    {
+        "Nombre": "CC Presidente Jurez (Rosarito)",
+        "Capacidad": "743",
+        "Entidad": "Baja California",
+        "Tecnologia": "Ciclo Combinado",
+        "Latitud": "32.3684945",
+        "Longitud": "-117.084442"
+    },
+    {
+        "Nombre": "Mexicali",
+        "Capacidad": "489",
+        "Entidad": "Baja California",
+        "Tecnologia": "Ciclo Combinado",
+        "Latitud": "32.6009142",
+        "Longitud": "-115.659276"
+    },
+    {
+        "Nombre": "Campeche",
+        "Capacidad": "252.4",
+        "Entidad": "Campeche",
+        "Tecnologia": "Ciclo Combinado",
+        "Latitud": "17.9406683",
+        "Longitud": "-91.73477"
+    },
+    {
+        "Nombre": "CC Chihuahua II (El Encino)",
+        "Capacidad": "619.4",
+        "Entidad": "Chihuahua",
+        "Tecnologia": "Ciclo Combinado",
+        "Latitud": "28.4470027",
+        "Longitud": "-105.922675"
+    },
+    {
+        "Nombre": "CC Samalayuca II",
+        "Capacidad": "522",
+        "Entidad": "Chihuahua",
+        "Tecnologia": "Ciclo Combinado",
+        "Latitud": "31.3302947",
+        "Longitud": "-106.486312"
+    },
+    {
+        "Nombre": "Norte II",
+        "Capacidad": "433",
+        "Entidad": "Chihuahua",
+        "Tecnologia": "Ciclo Combinado",
+        "Latitud": "28.4402827",
+        "Longitud": "-105.918964"
+    },
+    {
+        "Nombre": "Chihuahua III",
+        "Capacidad": "259",
+        "Entidad": "Chihuahua",
+        "Tecnologia": "Ciclo Combinado",
+        "Latitud": "31.3331032",
+        "Longitud": "-106.490956"
+    },
+    {
+        "Nombre": "Saltillo",
+        "Capacidad": "247.5",
+        "Entidad": "Coahuila",
+        "Tecnologia": "Ciclo Combinado",
+        "Latitud": "25.59471",
+        "Longitud": "-100.90652"
+    },
+    {
+        "Nombre": "CC Manzanillo I (Gral Manuel alvarez Moreno)",
+        "Capacidad": "1454",
+        "Entidad": "Colima",
+        "Tecnologia": "Ciclo Combinado",
+        "Latitud": "19.0257806",
+        "Longitud": "-104.319422"
+    },
+    {
+        "Nombre": "CC Gomez Palacio",
+        "Capacidad": "240",
+        "Entidad": "Durango",
+        "Tecnologia": "Ciclo Combinado",
+        "Latitud": "25.5944954",
+        "Longitud": "-103.47463"
+    },
+    {
+        "Nombre": "La Laguna II",
+        "Capacidad": "498",
+        "Entidad": "Durango",
+        "Tecnologia": "Ciclo Combinado",
+        "Latitud": "25.6020413",
+        "Longitud": "-103.474385"
+    },
+    {
+        "Nombre": "Norte Durango (La Trinidad)",
+        "Capacidad": "450",
+        "Entidad": "Durango",
+        "Tecnologia": "Ciclo Combinado",
+        "Latitud": "24.229667",
+        "Longitud": "-104.482172"
+    },
+    {
+        "Nombre": "CC Valle de Mexico (Paquete II)",
+        "Capacidad": "549",
+        "Entidad": "Estado de Mexico",
+        "Tecnologia": "Ciclo Combinado",
+        "Latitud": "19.6167593",
+        "Longitud": "-98.976099"
+    },
+    {
+        "Nombre": "CC Bajio",
+        "Capacidad": "495",
+        "Entidad": "Guanajuato",
+        "Tecnologia": "Ciclo Combinado",
+        "Latitud": "21.24513",
+        "Longitud": "-100.610426"
+    },
+    {
+        "Nombre": "CC Francisco Perez Rios (Tula)",
+        "Capacidad": "489",
+        "Entidad": "Hidalgo",
+        "Tecnologia": "Ciclo Combinado",
+        "Latitud": "20.0596515",
+        "Longitud": "-99.277541"
+    },
+    {
+        "Nombre": "CC Huinala I",
+        "Capacidad": "378",
+        "Entidad": "Nuevo Leon",
+        "Tecnologia": "Ciclo Combinado",
+        "Latitud": "25.7201712",
+        "Longitud": "-100.10166"
+    },
+    {
+        "Nombre": "CC Huinala II",
+        "Capacidad": "471.2",
+        "Entidad": "Nuevo Leon",
+        "Tecnologia": "Ciclo Combinado",
+        "Latitud": "25.719078",
+        "Longitud": "-100.102553"
+    },
+    {
+        "Nombre": "Monterrey III (Dulces Nombres)",
+        "Capacidad": "449",
+        "Entidad": "Nuevo Leon",
+        "Tecnologia": "Ciclo Combinado",
+        "Latitud": "25.7177018",
+        "Longitud": "-100.093091"
+    },
+    {
+        "Nombre": "CC San Lorenzo Potencia",
+        "Capacidad": "382.1",
+        "Entidad": "Puebla",
+        "Tecnologia": "Ciclo Combinado",
+        "Latitud": "19.1203463",
+        "Longitud": "-98.243689"
+    },
+    {
+        "Nombre": "CC El Sauz",
+        "Capacidad": "591",
+        "Entidad": "Queretaro",
+        "Tecnologia": "Ciclo Combinado",
+        "Latitud": "20.4579153",
+        "Longitud": "-100.118472"
+    },
+    {
+        "Nombre": "Iberdrola Energia Tamazunchale",
+        "Capacidad": "1135",
+        "Entidad": "San Luis Potosi",
+        "Tecnologia": "Ciclo Combinado",
+        "Latitud": "21.311286",
+        "Longitud": "-98.759108"
+    },
+    {
+        "Nombre": "CC Agua Prieta II",
+        "Capacidad": "409",
+        "Entidad": "Sonora",
+        "Tecnologia": "Ciclo Combinado",
+        "Latitud": "31.2636905",
+        "Longitud": "-109.592661"
+    },
+    {
+        "Nombre": "CC Hermosillo",
+        "Capacidad": "250",
+        "Entidad": "Sonora",
+        "Tecnologia": "Ciclo Combinado",
+        "Latitud": "29.0405563",
+        "Longitud": "-110.836059"
+    },
+    {
+        "Nombre": "Naco Nogales",
+        "Capacidad": "258",
+        "Entidad": "Sonora",
+        "Tecnologia": "Ciclo Combinado",
+        "Latitud": "31.2246505",
+        "Longitud": "-109.609806"
+    },
+    {
+        "Nombre": "Altamira II",
+        "Capacidad": "495",
+        "Entidad": "Tamaulipas",
+        "Tecnologia": "Ciclo Combinado",
+        "Latitud": "22.497778",
+        "Longitud": "-97.901667"
+    },
+    {
+        "Nombre": "Altamira III y IV",
+        "Capacidad": "1036",
+        "Entidad": "Tamaulipas",
+        "Tecnologia": "Ciclo Combinado",
+        "Latitud": "22.4955237",
+        "Longitud": "-97.902453"
+    },
+    {
+        "Nombre": "Altamira V",
+        "Capacidad": "1121",
+        "Entidad": "Tamaulipas",
+        "Tecnologia": "Ciclo Combinado",
+        "Latitud": "22.4973288",
+        "Longitud": "-97.906104"
+    },
+    {
+        "Nombre": "CC Pdte. Emilio Portes Gil (Rio Bravo)",
+        "Capacidad": "211",
+        "Entidad": "Tamaulipas",
+        "Tecnologia": "Ciclo Combinado",
+        "Latitud": "25.9799543",
+        "Longitud": "-98.06616"
+    },
+    {
+        "Nombre": "Central Rio Bravo (Anahuac)",
+        "Capacidad": "495",
+        "Entidad": "Tamaulipas",
+        "Tecnologia": "Ciclo Combinado",
+        "Latitud": "25.7990558",
+        "Longitud": "-97.783729"
+    },
+    {
+        "Nombre": "Central Rio Bravo III",
+        "Capacidad": "495",
+        "Entidad": "Tamaulipas",
+        "Tecnologia": "Ciclo Combinado",
+        "Latitud": "25.799288",
+        "Longitud": "-97.782358"
+    },
+    {
+        "Nombre": "Central Rio Bravo IV",
+        "Capacidad": "500",
+        "Entidad": "Tamaulipas",
+        "Tecnologia": "Ciclo Combinado",
+        "Latitud": "25.797699",
+        "Longitud": "-97.782726"
+    },
+    {
+        "Nombre": "CC Dos Bocas",
+        "Capacidad": "452",
+        "Entidad": "Veracruz",
+        "Tecnologia": "Ciclo Combinado",
+        "Latitud": "19.0831283",
+        "Longitud": "-96.146498"
+    },
+    {
+        "Nombre": "Central Tuxpan II",
+        "Capacidad": "495",
+        "Entidad": "Veracruz",
+        "Tecnologia": "Ciclo Combinado",
+        "Latitud": "20.8425309",
+        "Longitud": "-97.245424"
+    },
+    {
+        "Nombre": "Central Tuxpan III y IV",
+        "Capacidad": "983",
+        "Entidad": "Veracruz",
+        "Tecnologia": "Ciclo Combinado",
+        "Latitud": "20.8383508",
+        "Longitud": "-97.254321"
+    },
+    {
+        "Nombre": "Central Tuxpan V",
+        "Capacidad": "495",
+        "Entidad": "Veracruz",
+        "Tecnologia": "Ciclo Combinado",
+        "Latitud": "20.8453699",
+        "Longitud": "-97.248723"
+    },
+    {
+        "Nombre": "AES Merida III",
+        "Capacidad": "484",
+        "Entidad": "Yucatan",
+        "Tecnologia": "Ciclo Combinado",
+        "Latitud": "20.9337395",
+        "Longitud": "-89.69801"
+    },
+    {
+        "Nombre": "Compa\u00f1ia de Generacion Valladolid",
+        "Capacidad": "525",
+        "Entidad": "Yucatan",
+        "Tecnologia": "Ciclo Combinado",
+        "Latitud": "20.6921858",
+        "Longitud": "-88.265954"
+    },
+    {
+        "Nombre": "CT Felipe Carrillo Puerto (Valladolid)",
+        "Capacidad": "220",
+        "Entidad": "Yucatan",
+        "Tecnologia": "Ciclo Combinado",
+        "Latitud": "20.6985305",
+        "Longitud": "-88.267012"
+    },
+    {
+        "Nombre": "CCI Baja California Sur I",
+        "Capacidad": "26",
+        "Entidad": "Baja California Sur",
+        "Tecnologia": "Combustion interna",
+        "Latitud": "24.1978262",
+        "Longitud": "-110.257911"
+    },
+    {
+        "Nombre": "CCI Gral. Agustin Olachea Aviles (Pto San Carlos)",
+        "Capacidad": "104.1",
+        "Entidad": "Baja California Sur",
+        "Tecnologia": "Combustion interna",
+        "Latitud": "24.8152208",
+        "Longitud": "-112.093062"
+    },
+    {
+        "Nombre": "CCI Guerrero Negro",
+        "Capacidad": "22",
+        "Entidad": "Baja California Sur",
+        "Tecnologia": "Combustion interna",
+        "Latitud": "27.6417326",
+        "Longitud": "-113.415308"
+    },
+    {
+        "Nombre": "CCI Santa Rosalia",
+        "Capacidad": "5",
+        "Entidad": "Baja California Sur",
+        "Tecnologia": "Combustion interna",
+        "Latitud": "27.3530047",
+        "Longitud": "-112.271038"
+    },
+    {
+        "Nombre": "CCI Hol-Box",
+        "Capacidad": "3.2",
+        "Entidad": "Quintana Roo",
+        "Tecnologia": "Combustion interna",
+        "Latitud": "21.5201389",
+        "Longitud": "-87.37642"
+    },
+    {
+        "Nombre": "La Venta",
+        "Capacidad": "1",
+        "Entidad": "Oaxaca",
+        "Tecnologia": "Eolico",
+        "Latitud": "16.5801421",
+        "Longitud": "-94.816653"
+    },
+    {
+        "Nombre": "La Venta III",
+        "Capacidad": "102.9",
+        "Entidad": "Oaxaca",
+        "Tecnologia": "Eolico",
+        "Latitud": "16.5761308",
+        "Longitud": "-94.736216"
+    },
+    {
+        "Nombre": "Oaxaca I",
+        "Capacidad": "102",
+        "Entidad": "Oaxaca",
+        "Tecnologia": "Eolico",
+        "Latitud": "16.5681348",
+        "Longitud": "-94.72616"
+    },
+    {
+        "Nombre": "Oaxaca II",
+        "Capacidad": "102",
+        "Entidad": "Oaxaca",
+        "Tecnologia": "Eolico",
+        "Latitud": "16.5709119",
+        "Longitud": "-94.788961"
+    },
+    {
+        "Nombre": "Oaxaca III",
+        "Capacidad": "102",
+        "Entidad": "Oaxaca",
+        "Tecnologia": "Eolico",
+        "Latitud": "16.5473236",
+        "Longitud": "-94.829665"
+    },
+    {
+        "Nombre": "Oaxaca IV",
+        "Capacidad": "102",
+        "Entidad": "Oaxaca",
+        "Tecnologia": "Eolico",
+        "Latitud": "16.5709119",
+        "Longitud": "-94.788961"
+    },
+    {
+        "Nombre": "Sureste I (La Mata)",
+        "Capacidad": "102",
+        "Entidad": "Oaxaca",
+        "Tecnologia": "Eolico",
+        "Latitud": "16.6136801",
+        "Longitud": "-95.005156"
+    },
+    {
+        "Nombre": "Yuumil ik",
+        "Capacidad": "1.5",
+        "Entidad": "Quintana Roo",
+        "Tecnologia": "Eolico",
+        "Latitud": "20.9763952",
+        "Longitud": "-86.862365"
+    },
+    {
+        "Nombre": "Cerro Prieto",
+        "Capacidad": "5",
+        "Entidad": "Baja California",
+        "Tecnologia": "Fotovoltaica",
+        "Latitud": "32.4008961",
+        "Longitud": "-115.237533"
+    },
+    {
+        "Nombre": "Santa Rosalia",
+        "Capacidad": "1",
+        "Entidad": "Baja California Sur",
+        "Tecnologia": "Fotovoltaica",
+        "Latitud": "27.3637056",
+        "Longitud": "-112.916468"
+    },
+    {
+        "Nombre": "CG Cerro Prieto",
+        "Capacidad": "570",
+        "Entidad": "Baja California",
+        "Tecnologia": "Geotermoelectrica",
+        "Latitud": "32.4136095",
+        "Longitud": "-115.245095"
+    },
+    {
+        "Nombre": "CG Tres Virgenes",
+        "Capacidad": "10",
+        "Entidad": "Baja California Sur",
+        "Tecnologia": "Geotermoelectrica",
+        "Latitud": "27.5061057",
+        "Longitud": "-112.55991"
+    },
+    {
+        "Nombre": "CG Los Azufres",
+        "Capacidad": "225",
+        "Entidad": "Michoacan",
+        "Tecnologia": "Geotermoelectrica",
+        "Latitud": "19.7915879",
+        "Longitud": "-100.662277"
+    },
+    {
+        "Nombre": "CG Humeros",
+        "Capacidad": "69",
+        "Entidad": "Puebla",
+        "Tecnologia": "Geotermoelectrica",
+        "Latitud": "19.6726316",
+        "Longitud": "-97.455836"
+    },
+    {
+        "Nombre": "Bombana",
+        "Capacidad": "5.2",
+        "Entidad": "Chiapas",
+        "Tecnologia": "Hidroelectrica",
+        "Latitud": "17.011192",
+        "Longitud": "-93.028972"
+    },
+    {
+        "Nombre": "Central angel Albino Corzo (Pe\u00f1itas)",
+        "Capacidad": "420",
+        "Entidad": "Chiapas",
+        "Tecnologia": "Hidroelectrica",
+        "Latitud": "17.4542911",
+        "Longitud": "-93.464399"
+    },
+    {
+        "Nombre": "Central Belisario Dominguez (Angostura)",
+        "Capacidad": "900",
+        "Entidad": "Chiapas",
+        "Tecnologia": "Hidroelectrica",
+        "Latitud": "16.404444",
+        "Longitud": "-92.775"
+    },
+    {
+        "Nombre": "Central Malpaso",
+        "Capacidad": "1080",
+        "Entidad": "Chiapas",
+        "Tecnologia": "Hidroelectrica",
+        "Latitud": "17.1805892",
+        "Longitud": "-93.597029"
+    },
+    {
+        "Nombre": "Central Manuel Moreno Torres (Chicoasen)",
+        "Capacidad": "2400",
+        "Entidad": "Chiapas",
+        "Tecnologia": "Hidroelectrica",
+        "Latitud": "16.9448343",
+        "Longitud": "-93.097849"
+    },
+    {
+        "Nombre": "Jose Cecilio del Valle",
+        "Capacidad": "21",
+        "Entidad": "Chiapas",
+        "Tecnologia": "Hidroelectrica",
+        "Latitud": "15.0232568",
+        "Longitud": "-92.22769"
+    },
+    {
+        "Nombre": "Schpoina",
+        "Capacidad": "2.2",
+        "Entidad": "Chiapas",
+        "Tecnologia": "Hidroelectrica",
+        "Latitud": "16.3144717",
+        "Longitud": "-92.427925"
+    },
+    {
+        "Nombre": "Boquilla",
+        "Capacidad": "25",
+        "Entidad": "Chihuahua",
+        "Tecnologia": "Hidroelectrica",
+        "Latitud": "27.544722",
+        "Longitud": "-105.414167"
+    },
+    {
+        "Nombre": "Colina",
+        "Capacidad": "3",
+        "Entidad": "Chihuahua",
+        "Tecnologia": "Hidroelectrica",
+        "Latitud": "27.57507",
+        "Longitud": "-105.38248"
+    },
+    {
+        "Nombre": "La Amistad",
+        "Capacidad": "66",
+        "Entidad": "Coahuila",
+        "Tecnologia": "Hidroelectrica",
+        "Latitud": "29.450278",
+        "Longitud": "-101.057778"
+    },
+    {
+        "Nombre": "Santa Barbara (S.H. Miguel Aleman)",
+        "Capacidad": "22.52",
+        "Entidad": "Estado de Mexico",
+        "Tecnologia": "Hidroelectrica",
+        "Latitud": "19.1978001",
+        "Longitud": "-100.282289"
+    },
+    {
+        "Nombre": "Tingambato (S.H. Miguel Aleman)",
+        "Capacidad": "42",
+        "Entidad": "Estado de Mexico",
+        "Tecnologia": "Hidroelectrica",
+        "Latitud": "19.081745",
+        "Longitud": "-100.406155"
+    },
+    {
+        "Nombre": "Generadora Fenix, S. A. P. I. de C.V. Alameda",
+        "Capacidad": "7",
+        "Entidad": "Estado de Mexico",
+        "Tecnologia": "Hidroelectrica",
+        "Latitud": "18.845156",
+        "Longitud": "-99.461384"
+    },
+    {
+        "Nombre": "Ambrosio Figueroa (La Venta)",
+        "Capacidad": "30",
+        "Entidad": "Guerrero",
+        "Tecnologia": "Hidroelectrica",
+        "Latitud": "17.1173009",
+        "Longitud": "-99.56272"
+    },
+    {
+        "Nombre": "Central Carlos Ramirez Ulloa (El Caracol)",
+        "Capacidad": "600",
+        "Entidad": "Guerrero",
+        "Tecnologia": "Hidroelectrica",
+        "Latitud": "17.953029",
+        "Longitud": "-99.99205"
+    },
+    {
+        "Nombre": "Colotilpa",
+        "Capacidad": "8",
+        "Entidad": "Guerrero",
+        "Tecnologia": "Hidroelectrica",
+        "Latitud": "17.4092418",
+        "Longitud": "-99.162252"
+    },
+    {
+        "Nombre": "Central Fernando Hiriart Balderrama (Zimapan)",
+        "Capacidad": "292",
+        "Entidad": "Hidalgo",
+        "Tecnologia": "Hidroelectrica",
+        "Latitud": "20.8480551",
+        "Longitud": "-99.459806"
+    },
+    {
+        "Nombre": "Central La Yesca",
+        "Capacidad": "750",
+        "Entidad": "Jalisco",
+        "Tecnologia": "Hidroelectrica",
+        "Latitud": "21.1922051",
+        "Longitud": "-104.086741"
+    },
+    {
+        "Nombre": "Colimilla",
+        "Capacidad": "51.2",
+        "Entidad": "Jalisco",
+        "Tecnologia": "Hidroelectrica",
+        "Latitud": "20.7009461",
+        "Longitud": "-103.242194"
+    },
+    {
+        "Nombre": "Luis M. Rojas (intermedia)",
+        "Capacidad": "5.3",
+        "Entidad": "Jalisco",
+        "Tecnologia": "Hidroelectrica",
+        "Latitud": "20.7056245",
+        "Longitud": "-103.265393"
+    },
+    {
+        "Nombre": "Gral. Manuel M. Dieguez (Santa Rosa)",
+        "Capacidad": "70",
+        "Entidad": "Jalisco",
+        "Tecnologia": "Hidroelectrica",
+        "Latitud": "20.9080017",
+        "Longitud": "-103.706203"
+    },
+    {
+        "Nombre": "Puente Grande",
+        "Capacidad": "9",
+        "Entidad": "Jalisco",
+        "Tecnologia": "Hidroelectrica",
+        "Latitud": "20.5774976",
+        "Longitud": "-103.145746"
+    },
+    {
+        "Nombre": "Valentin Gomez Farias (Agua Prieta)",
+        "Capacidad": "240",
+        "Entidad": "Jalisco",
+        "Tecnologia": "Hidroelectrica",
+        "Latitud": "20.7859635",
+        "Longitud": "-103.325056"
+    },
+    {
+        "Nombre": "Botello",
+        "Capacidad": "18",
+        "Entidad": "Michoacan",
+        "Tecnologia": "Hidroelectrica",
+        "Latitud": "19.9798124",
+        "Longitud": "-101.734582"
+    },
+    {
+        "Nombre": "Central El Infiernillo",
+        "Capacidad": "1200",
+        "Entidad": "Michoacan",
+        "Tecnologia": "Hidroelectrica",
+        "Latitud": "18.2812246",
+        "Longitud": "-101.901375"
+    },
+    {
+        "Nombre": "Central La Villita",
+        "Capacidad": "320",
+        "Entidad": "Michoacan",
+        "Tecnologia": "Hidroelectrica",
+        "Latitud": "18.0456955",
+        "Longitud": "-102.182454"
+    },
+    {
+        "Nombre": "Cobano",
+        "Capacidad": "60",
+        "Entidad": "Michoacan",
+        "Tecnologia": "Hidroelectrica",
+        "Latitud": "19.1662119",
+        "Longitud": "-102.011732"
+    },
+    {
+        "Nombre": "Cupatizio",
+        "Capacidad": "80",
+        "Entidad": "Michoacan",
+        "Tecnologia": "Hidroelectrica",
+        "Latitud": "19.2687545",
+        "Longitud": "-102.079901"
+    },
+    {
+        "Nombre": "Platanal",
+        "Capacidad": "12.6",
+        "Entidad": "Michoacan",
+        "Tecnologia": "Hidroelectrica",
+        "Latitud": "19.932471",
+        "Longitud": "-102.254832"
+    },
+    {
+        "Nombre": "San Pedro Poruas",
+        "Capacidad": "2.6",
+        "Entidad": "Michoacan",
+        "Tecnologia": "Hidroelectrica",
+        "Latitud": "19.4142111",
+        "Longitud": "-101.248548"
+    },
+    {
+        "Nombre": "Tirio",
+        "Capacidad": "1.1",
+        "Entidad": "Michoacan",
+        "Tecnologia": "Hidroelectrica",
+        "Latitud": "19.53015",
+        "Longitud": "-101.2531"
+    },
+    {
+        "Nombre": "Zumpimito",
+        "Capacidad": "8.4",
+        "Entidad": "Michoacan",
+        "Tecnologia": "Hidroelectrica",
+        "Latitud": "19.3602644",
+        "Longitud": "-102.069454"
+    },
+    {
+        "Nombre": "Generadora Fenix, S. A. P. I. de C.V. Lerma ",
+        "Capacidad": "73.5",
+        "Entidad": "Michoacan",
+        "Tecnologia": "Hidroelectrica",
+        "Latitud": "19.9823014",
+        "Longitud": "-100.252506"
+    },
+    {
+        "Nombre": "Central Aguamilpa Solidaridad",
+        "Capacidad": "960",
+        "Entidad": "Nayarit",
+        "Tecnologia": "Hidroelectrica",
+        "Latitud": "21.8399",
+        "Longitud": "-104.802905"
+    },
+    {
+        "Nombre": "Central Leonardo Rodriguez Alcaine (El Cajon)",
+        "Capacidad": "750",
+        "Entidad": "Nayarit",
+        "Tecnologia": "Hidroelectrica",
+        "Latitud": "21.4293515",
+        "Longitud": "-104.454058"
+    },
+    {
+        "Nombre": "Jumatan",
+        "Capacidad": "2.2",
+        "Entidad": "Nayarit",
+        "Tecnologia": "Hidroelectrica",
+        "Latitud": "21.6468876",
+        "Longitud": "-105.033051"
+    },
+    {
+        "Nombre": "Central Temascal y Ampliacion Temascal",
+        "Capacidad": "354",
+        "Entidad": "Oaxaca",
+        "Tecnologia": "Hidroelectrica",
+        "Latitud": "18.2335897",
+        "Longitud": "-96.409422"
+    },
+    {
+        "Nombre": "Tamazulapan",
+        "Capacidad": "2.5",
+        "Entidad": "Oaxaca",
+        "Tecnologia": "Hidroelectrica",
+        "Latitud": "17.692783",
+        "Longitud": "-97.61968"
+    },
+    {
+        "Nombre": "Central Mazatepec",
+        "Capacidad": "220",
+        "Entidad": "Puebla",
+        "Tecnologia": "Hidroelectrica",
+        "Latitud": "20.0144626",
+        "Longitud": "-97.40644"
+    },
+    {
+        "Nombre": "Central Portezuelos I y II ",
+        "Capacidad": "4.1",
+        "Entidad": "Puebla",
+        "Tecnologia": "Hidroelectrica",
+        "Latitud": "18.9192977",
+        "Longitud": "-98.373167"
+    },
+    {
+        "Nombre": "Generadora Fenix, S. A. P. I. de C.V. Necaxa",
+        "Capacidad": "16",
+        "Entidad": "Puebla",
+        "Tecnologia": "Hidroelectrica",
+        "Latitud": "20.2166201",
+        "Longitud": "-98.002804"
+    },
+    {
+        "Nombre": "Generadora Fenix, S. A. P. I. de C.V. Patla",
+        "Capacidad": "15",
+        "Entidad": "Puebla",
+        "Tecnologia": "Hidroelectrica",
+        "Latitud": "20.2392117",
+        "Longitud": "-97.891506"
+    },
+    {
+        "Nombre": "Generadora Fenix, S. A. P. I. de C.V. Tepexic",
+        "Capacidad": "15",
+        "Entidad": "Puebla",
+        "Tecnologia": "Hidroelectrica",
+        "Latitud": "20.21005",
+        "Longitud": "-97.948345"
+    },
+    {
+        "Nombre": "Camilo Arriaga (El Salto)",
+        "Capacidad": "18",
+        "Entidad": "San Luis Potosi",
+        "Tecnologia": "Hidroelectrica",
+        "Latitud": "22.588129",
+        "Longitud": "-99.38359"
+    },
+    {
+        "Nombre": "Electroquimica",
+        "Capacidad": "1.4",
+        "Entidad": "San Luis Potosi",
+        "Tecnologia": "Hidroelectrica",
+        "Latitud": "22.588129",
+        "Longitud": "-99.35"
+    },
+    {
+        "Nombre": "Bacurato",
+        "Capacidad": "92",
+        "Entidad": "Sinaloa",
+        "Tecnologia": "Hidroelectrica",
+        "Latitud": "25.855717",
+        "Longitud": "-107.910361"
+    },
+    {
+        "Nombre": "Central 27 de Septiembre (El Fuerte)",
+        "Capacidad": "59.4",
+        "Entidad": "Sinaloa",
+        "Tecnologia": "Hidroelectrica",
+        "Latitud": "26.5072953",
+        "Longitud": "-108.575108"
+    },
+    {
+        "Nombre": "Central Luis Donaldo Colosio (Huites)",
+        "Capacidad": "422",
+        "Entidad": "Sinaloa",
+        "Tecnologia": "Hidroelectrica",
+        "Latitud": "26.8437651",
+        "Longitud": "-108.367947"
+    },
+    {
+        "Nombre": "Humaya",
+        "Capacidad": "90",
+        "Entidad": "Sinaloa",
+        "Tecnologia": "Hidroelectrica",
+        "Latitud": "25.099861",
+        "Longitud": "-107.387781"
+    },
+    {
+        "Nombre": "Prof. Raul J. Marsal Cordova (El comedero)",
+        "Capacidad": "100",
+        "Entidad": "Sinaloa",
+        "Tecnologia": "Hidroelectrica",
+        "Latitud": "24.5692557",
+        "Longitud": "-106.80966"
+    },
+    {
+        "Nombre": "Gral. Salvador Alvarado (Sanalona)",
+        "Capacidad": "14",
+        "Entidad": "Sinaloa",
+        "Tecnologia": "Hidroelectrica",
+        "Latitud": "24.8156421",
+        "Longitud": "-107.149413"
+    },
+    {
+        "Nombre": "Central Pdte Plutarco Elias Calles (El Novillo)",
+        "Capacidad": "135",
+        "Entidad": "Sonora",
+        "Tecnologia": "Hidroelectrica",
+        "Latitud": "28.9766171",
+        "Longitud": "-109.64003"
+    },
+    {
+        "Nombre": "Mocuzari",
+        "Capacidad": "9.6",
+        "Entidad": "Sonora",
+        "Tecnologia": "Hidroelectrica",
+        "Latitud": "27.225131",
+        "Longitud": "-109.106769"
+    },
+    {
+        "Nombre": "Oviachic",
+        "Capacidad": "19.2",
+        "Entidad": "Sonora",
+        "Tecnologia": "Hidroelectrica",
+        "Latitud": "27.821343",
+        "Longitud": "-109.897978"
+    },
+    {
+        "Nombre": "Falcon",
+        "Capacidad": "31.5",
+        "Entidad": "Tamaulipas",
+        "Tecnologia": "Hidroelectrica",
+        "Latitud": "26.558369",
+        "Longitud": "-99.1694"
+    },
+    {
+        "Nombre": "Chilapan",
+        "Capacidad": "26",
+        "Entidad": "Veracruz",
+        "Tecnologia": "Hidroelectrica",
+        "Latitud": "18.4712477",
+        "Longitud": "-95.15763"
+    },
+    {
+        "Nombre": "Encanto",
+        "Capacidad": "10",
+        "Entidad": "Veracruz",
+        "Tecnologia": "Hidroelectrica",
+        "Latitud": "19.9837823",
+        "Longitud": "-97.175802"
+    },
+    {
+        "Nombre": "Ixtaczoquitlan",
+        "Capacidad": "1.6",
+        "Entidad": "Veracruz",
+        "Tecnologia": "Hidroelectrica",
+        "Latitud": "18.8422661",
+        "Longitud": "-97.062678"
+    },
+    {
+        "Nombre": "Minas",
+        "Capacidad": "15",
+        "Entidad": "Veracruz",
+        "Tecnologia": "Hidroelectrica",
+        "Latitud": "19.6863469",
+        "Longitud": "-97.147146"
+    },
+    {
+        "Nombre": "Texolo",
+        "Capacidad": "1.6",
+        "Entidad": "Veracruz",
+        "Tecnologia": "Hidroelectrica",
+        "Latitud": "19.4019312",
+        "Longitud": "-96.992439"
+    },
+    {
+        "Nombre": "Tuxpango",
+        "Capacidad": "36",
+        "Entidad": "Veracruz",
+        "Tecnologia": "Hidroelectrica",
+        "Latitud": "18.8365213",
+        "Longitud": "-97.033879"
+    },
+    {
+        "Nombre": "CN Laguna Verde",
+        "Capacidad": "1608",
+        "Entidad": "Veracruz",
+        "Tecnologia": "Nucleoelectrica",
+        "Latitud": "19.7207374",
+        "Longitud": "-96.406982"
+    },
+    {
+        "Nombre": "CT Presidente Juarez (Rosarito)",
+        "Capacidad": "320",
+        "Entidad": "Baja California",
+        "Tecnologia": "Termoelectrica",
+        "Latitud": "32.3686749",
+        "Longitud": "-117.068382"
+    },
+    {
+        "Nombre": "CT Punta Prieta II",
+        "Capacidad": "113",
+        "Entidad": "Baja California Sur",
+        "Tecnologia": "Termoelectrica",
+        "Latitud": "24.223326",
+        "Longitud": "-110.309295"
+    },
+    {
+        "Nombre": "CT Lerma",
+        "Capacidad": "112.5",
+        "Entidad": "Campeche",
+        "Tecnologia": "Termoelectrica",
+        "Latitud": "19.7947765",
+        "Longitud": "-90.612771"
+    },
+    {
+        "Nombre": "CT Gral. Francisco Villa",
+        "Capacidad": "300",
+        "Entidad": "Chihuahua",
+        "Tecnologia": "Termoelectrica",
+        "Latitud": "28.1679986",
+        "Longitud": "-105.442412"
+    },
+    {
+        "Nombre": "CT Benito Juarez (Samalayuca)",
+        "Capacidad": "316",
+        "Entidad": "Chihuahua",
+        "Tecnologia": "Termoelectrica",
+        "Latitud": "31.331805",
+        "Longitud": "-106.482595"
+    },
+    {
+        "Nombre": "CC Manzanillo II (Gral Manuel alvarez Moreno)",
+        "Capacidad": "1300",
+        "Entidad": "Colima",
+        "Tecnologia": "Termoelectrica",
+        "Latitud": "19.0227687",
+        "Longitud": "-104.319629"
+    },
+    {
+        "Nombre": "CT Guadalupe Victoria (Lerdo)",
+        "Capacidad": "320",
+        "Entidad": "Durango",
+        "Tecnologia": "Termoelectrica",
+        "Latitud": "25.4968008",
+        "Longitud": "-103.568932"
+    },
+    {
+        "Nombre": "CT Valle de Mexico (Paquete I)",
+        "Capacidad": "450",
+        "Entidad": "Estado de Mexico",
+        "Tecnologia": "Termoelectrica",
+        "Latitud": "19.6167523",
+        "Longitud": "-98.977501"
+    },
+    {
+        "Nombre": "CT Salamanca",
+        "Capacidad": "550",
+        "Entidad": "Guanajuato",
+        "Tecnologia": "Termoelectrica",
+        "Latitud": "20.5691282",
+        "Longitud": "-101.170968"
+    },
+    {
+        "Nombre": "CT Francisco Perez Rios (Tula)",
+        "Capacidad": "1606",
+        "Entidad": "Hidalgo",
+        "Tecnologia": "Termoelectrica",
+        "Latitud": "20.0613245",
+        "Longitud": "-99.276715"
+    },
+    {
+        "Nombre": "CT Villa de Reyes",
+        "Capacidad": "700",
+        "Entidad": "San Luis Potosi",
+        "Tecnologia": "Termoelectrica",
+        "Latitud": "21.8319464",
+        "Longitud": "-100.934019"
+    },
+    {
+        "Nombre": "CT Jose Aceves Pozos (Mazatlan II)",
+        "Capacidad": "616",
+        "Entidad": "Sinaloa",
+        "Tecnologia": "Termoelectrica",
+        "Latitud": "23.190984",
+        "Longitud": "-106.353251"
+    },
+    {
+        "Nombre": "CT Juan de Dios Batiz Paredes (Topolobampo)",
+        "Capacidad": "320",
+        "Entidad": "Sinaloa",
+        "Tecnologia": "Termoelectrica",
+        "Latitud": "25.6091019",
+        "Longitud": "-109.050545"
+    },
+    {
+        "Nombre": "CT Carlos Rodriguez Rivero (Guaymas II)",
+        "Capacidad": "484",
+        "Entidad": "Sonora",
+        "Tecnologia": "Termoelectrica",
+        "Latitud": "27.9367643",
+        "Longitud": "-110.865883"
+    },
+    {
+        "Nombre": "CT Puerto Libertad",
+        "Capacidad": "632",
+        "Entidad": "Sonora",
+        "Tecnologia": "Termoelectrica",
+        "Latitud": "29.9090145",
+        "Longitud": "-112.695408"
+    },
+    {
+        "Nombre": "CT Pdte. Emilio Portes Gil (Rio Bravo)",
+        "Capacidad": "300",
+        "Entidad": "Tamaulipas",
+        "Tecnologia": "Termoelectrica",
+        "Latitud": "25.980709",
+        "Longitud": "-98.063196"
+    },
+    {
+        "Nombre": "CT Altamira",
+        "Capacidad": "500",
+        "Entidad": "Tamaulipas",
+        "Tecnologia": "Termoelectrica",
+        "Latitud": "22.4346506",
+        "Longitud": "-98.007405"
+    },
+    {
+        "Nombre": "CT Poza Rica",
+        "Capacidad": "230",
+        "Entidad": "Veracruz",
+        "Tecnologia": "Termoelectrica",
+        "Latitud": "20.5251183",
+        "Longitud": "-97.491936"
+    },
+    {
+        "Nombre": "CT Presidente Adolfo Lopez Mateos (Tuxpan)",
+        "Capacidad": "2100",
+        "Entidad": "Veracruz",
+        "Tecnologia": "Termoelectrica",
+        "Latitud": "21.0177873",
+        "Longitud": "-97.334111"
+    },
+    {
+        "Nombre": "CT Felipe Carrillo Puerto (Valladolid)",
+        "Capacidad": "75",
+        "Entidad": "Yucatan",
+        "Tecnologia": "Termoelectrica",
+        "Latitud": "20.698569",
+        "Longitud": "-88.26383"
+    },
+    {
+        "Nombre": "CT Merida II",
+        "Capacidad": "168",
+        "Entidad": "Yucatan",
+        "Tecnologia": "Termoelectrica",
+        "Latitud": "20.9271143",
+        "Longitud": "-89.686321"
+    },
+    {
+        "Nombre": "CTG Cipres",
+        "Capacidad": "27.43",
+        "Entidad": "Baja California",
+        "Tecnologia": "Turbogas",
+        "Latitud": "31.7757639",
+        "Longitud": "-116.586815"
+    },
+    {
+        "Nombre": "CTG Mexicali",
+        "Capacidad": "62",
+        "Entidad": "Baja California",
+        "Tecnologia": "Turbogas",
+        "Latitud": "32.6058947",
+        "Longitud": "-115.461108"
+    },
+    {
+        "Nombre": "CTG Tijuana",
+        "Capacidad": "345",
+        "Entidad": "Baja California",
+        "Tecnologia": "Turbogas",
+        "Latitud": "32.3719905",
+        "Longitud": "-117.067377"
+    },
+    {
+        "Nombre": "CTG Guerrero Negro II",
+        "Capacidad": "14",
+        "Entidad": "Baja California Sur",
+        "Tecnologia": "Turbogas",
+        "Latitud": "27.64171",
+        "Longitud": "-113.4132409"
+    },
+    {
+        "Nombre": "CTG Ciudad Constitucion",
+        "Capacidad": "33",
+        "Entidad": "Baja California Sur",
+        "Tecnologia": "Turbogas",
+        "Latitud": "25.0214571",
+        "Longitud": "-111.666895"
+    },
+    {
+        "Nombre": "CTG Los Cabos",
+        "Capacidad": "85",
+        "Entidad": "Baja California Sur",
+        "Tecnologia": "Turbogas",
+        "Latitud": "22.9727611",
+        "Longitud": "-110.021155"
+    },
+    {
+        "Nombre": "Ciudad del Carmen",
+        "Capacidad": "47",
+        "Entidad": "Campeche",
+        "Tecnologia": "Turbogas",
+        "Latitud": "18.6577482",
+        "Longitud": "-91.794985"
+    },
+    {
+        "Nombre": "CTG Parque (TG Juarez)",
+        "Capacidad": "59",
+        "Entidad": "Chihuahua",
+        "Tecnologia": "Turbogas",
+        "Latitud": "31.7024747",
+        "Longitud": "-106.403816"
+    },
+    {
+        "Nombre": "CTG Aragon",
+        "Capacidad": "32",
+        "Entidad": "Ciudad de Mexico",
+        "Tecnologia": "Turbogas",
+        "Latitud": "19.4611322",
+        "Longitud": "-99.09807"
+    },
+    {
+        "Nombre": "CTG Coapa",
+        "Capacidad": "32",
+        "Entidad": "Ciudad de Mexico",
+        "Tecnologia": "Turbogas",
+        "Latitud": "19.2706124",
+        "Longitud": "-99.127009"
+    },
+    {
+        "Nombre": "CTG Iztapalapa",
+        "Capacidad": "32",
+        "Entidad": "Ciudad de Mexico",
+        "Tecnologia": "Turbogas",
+        "Latitud": "19.33373",
+        "Longitud": "-99.07417"
+    },
+    {
+        "Nombre": "CTG Magdalena",
+        "Capacidad": "32",
+        "Entidad": "Ciudad de Mexico",
+        "Tecnologia": "Turbogas",
+        "Latitud": "19.3813891",
+        "Longitud": "-99.094321"
+    },
+    {
+        "Nombre": "CTG Santa Cruz",
+        "Capacidad": "32",
+        "Entidad": "Ciudad de Mexico",
+        "Tecnologia": "Turbogas",
+        "Latitud": "19.3662755",
+        "Longitud": "-99.059296"
+    },
+    {
+        "Nombre": "CTG Vallejo",
+        "Capacidad": "32",
+        "Entidad": "Ciudad de Mexico",
+        "Tecnologia": "Turbogas",
+        "Latitud": "19.5162157",
+        "Longitud": "-99.174162"
+    },
+    {
+        "Nombre": "CTG Nonoalco",
+        "Capacidad": "106",
+        "Entidad": "Ciudad de Mexico",
+        "Tecnologia": "Turbogas",
+        "Latitud": "19.4504932",
+        "Longitud": "-99.149691"
+    },
+    {
+        "Nombre": "CTG Chavez",
+        "Capacidad": "28",
+        "Entidad": "Coahuila",
+        "Tecnologia": "Turbogas",
+        "Latitud": "25.7724818",
+        "Longitud": "-103.284971"
+    },
+    {
+        "Nombre": "CTG Monclova",
+        "Capacidad": "48",
+        "Entidad": "Coahuila",
+        "Tecnologia": "Turbogas",
+        "Latitud": "26.8719811",
+        "Longitud": "-101.426273"
+    },
+    {
+        "Nombre": "CTG La Laguna",
+        "Capacidad": "56",
+        "Entidad": "Durango",
+        "Tecnologia": "Turbogas",
+        "Latitud": "25.551157",
+        "Longitud": "-103.471633"
+    },
+    {
+        "Nombre": "CTG Coyotepec",
+        "Capacidad": "64",
+        "Entidad": "Estado de Mexico",
+        "Tecnologia": "Turbogas",
+        "Latitud": "19.7614631",
+        "Longitud": "-99.217916"
+    },
+    {
+        "Nombre": "CTG Atenco",
+        "Capacidad": "32",
+        "Entidad": "Estado de Mexico",
+        "Tecnologia": "Turbogas",
+        "Latitud": "19.2795504",
+        "Longitud": "-99.570673"
+    },
+    {
+        "Nombre": "CTG Cuautitlan",
+        "Capacidad": "32",
+        "Entidad": "Estado de Mexico",
+        "Tecnologia": "Turbogas",
+        "Latitud": "19.6817861",
+        "Longitud": "-99.186784"
+    },
+    {
+        "Nombre": "CTG Ecatepec",
+        "Capacidad": "32",
+        "Entidad": "Estado de Mexico",
+        "Tecnologia": "Turbogas",
+        "Latitud": "19.6109486",
+        "Longitud": "-99.058246"
+    },
+    {
+        "Nombre": "CTG Remedios",
+        "Capacidad": "32",
+        "Entidad": "Estado de Mexico",
+        "Tecnologia": "Turbogas",
+        "Latitud": "19.4872714",
+        "Longitud": "-99.25154"
+    },
+    {
+        "Nombre": "CTG Victoria",
+        "Capacidad": "32",
+        "Entidad": "Estado de Mexico",
+        "Tecnologia": "Turbogas",
+        "Latitud": "19.6363847",
+        "Longitud": "-99.189977"
+    },
+    {
+        "Nombre": "CTG Villa de las Flores",
+        "Capacidad": "32",
+        "Entidad": "Estado de Mexico",
+        "Tecnologia": "Turbogas",
+        "Latitud": "19.6722058",
+        "Longitud": "-99.078205"
+    },
+    {
+        "Nombre": "CC Salamanca",
+        "Capacidad": "393",
+        "Entidad": "Guanajuato",
+        "Tecnologia": "Turbogas",
+        "Latitud": "20.5789785",
+        "Longitud": "-101.165403"
+    },
+    {
+        "Nombre": "CTG Fundidora",
+        "Capacidad": "12",
+        "Entidad": "Nuevo Leon",
+        "Tecnologia": "Turbogas",
+        "Latitud": "25.6821307",
+        "Longitud": "-100.27797"
+    },
+    {
+        "Nombre": "CTG Huinala",
+        "Capacidad": "150",
+        "Entidad": "Nuevo Leon",
+        "Tecnologia": "Turbogas",
+        "Latitud": "25.721856",
+        "Longitud": "-100.102751"
+    },
+    {
+        "Nombre": "CTG Leona",
+        "Capacidad": "24",
+        "Entidad": "Nuevo Leon",
+        "Tecnologia": "Turbogas",
+        "Latitud": "25.6688544",
+        "Longitud": "-100.415388"
+    },
+    {
+        "Nombre": "CTG Tecnologico",
+        "Capacidad": "26",
+        "Entidad": "Nuevo Leon",
+        "Tecnologia": "Turbogas",
+        "Latitud": "25.6135084",
+        "Longitud": "-100.271488"
+    },
+    {
+        "Nombre": "CTG Universidad",
+        "Capacidad": "24",
+        "Entidad": "Nuevo Leon",
+        "Tecnologia": "Turbogas",
+        "Latitud": "25.6984501",
+        "Longitud": "-100.318529"
+    },
+    {
+        "Nombre": "CTG Cancun",
+        "Capacidad": "102",
+        "Entidad": "Quintana Roo",
+        "Tecnologia": "Turbogas",
+        "Latitud": "21.13443",
+        "Longitud": "-86.831449"
+    },
+    {
+        "Nombre": "CTG Chankanaab",
+        "Capacidad": "53",
+        "Entidad": "Quintana Roo",
+        "Tecnologia": "Turbogas",
+        "Latitud": "20.4741404",
+        "Longitud": "-86.95713"
+    },
+    {
+        "Nombre": "CTG Nizuc",
+        "Capacidad": "88",
+        "Entidad": "Quintana Roo",
+        "Tecnologia": "Turbogas",
+        "Latitud": "21.0698512",
+        "Longitud": "-86.845937"
+    },
+    {
+        "Nombre": "CTG Xul-Ha",
+        "Capacidad": "39.7",
+        "Entidad": "Quintana Roo",
+        "Tecnologia": "Turbogas",
+        "Latitud": "18.5445512",
+        "Longitud": "-88.466537"
+    },
+    {
+        "Nombre": "CTG Culiacan",
+        "Capacidad": "30",
+        "Entidad": "Sinaloa",
+        "Tecnologia": "Turbogas",
+        "Latitud": "24.817023",
+        "Longitud": "-107.418298"
+    },
+    {
+        "Nombre": "CTG Caborca",
+        "Capacidad": "42",
+        "Entidad": "Sonora",
+        "Tecnologia": "Turbogas",
+        "Latitud": "30.7112912",
+        "Longitud": "-112.207492"
+    },
+    {
+        "Nombre": "CTG Merida II",
+        "Capacidad": "30",
+        "Entidad": "Yucatan",
+        "Tecnologia": "Turbogas",
+        "Latitud": "20.9273171",
+        "Longitud": "-89.686912"
+    },
+    {
+        "Nombre": "CTG Nachi-Cocom",
+        "Capacidad": "30",
+        "Entidad": "Yucatan",
+        "Tecnologia": "Turbogas",
+        "Latitud": "20.9822985",
+        "Longitud": "-89.592781"
+    }
+]

@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Electric energy generation in Mexico</title>
+
+  <!-- Our CSS -->
+  <link rel="stylesheet" type="text/css" href="static/css/style.css">
+
+  <!--Plotly libraries-->
+  <script src="https://cdn.plot.ly/plotly-2.29.1.min.js" charset="utf-8"></script>
+    
+  <!--Bootstrap libraries-->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" 
+  rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" 
+  crossorigin="anonymous">
+    
+</head>
+
+<body style="background-color: #e9ecef">
+
+  <!--Header-->
+  <div class="container-fluid bg-dark">
+    <div id="main" class="row">
+      <div class="col-md-12 text-white text-center" id="titulo">
+        <p class="fs-1 text-center fw-bold mb-1">Electric energy generation in Mexico</p>
+        <p class="fs-3 text-center fw-bold mb-4">2018-2023</p>
+        <p class="fs-5 fw-light text-center">This interactive visualization allows you to explore the evolution 
+          and key data of electricity generation in Mexico from 2018 to 2023, showcasing all its generation sources. 
+          Alternatively, explore our map displaying the country's most important power plants.</p>
+        <a href="map.html" class="btn btn-primary mt-5" id="liveToastBtn">Go to map</a>
+      </div>
+    </div>   
+  </div> 
+
+  <!--Summary-->
+  <div class="container mt-4">
+    <div class="accordion" id="accordionPanelsStayOpenExample">
+      <div class="accordion-item">
+        <h2 class="accordion-header">
+          <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
+            <strong>Summary</strong>
+          </button>
+        </h2>
+        <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
+          <div class="accordion-body">
+            1. Electricity generation has shown a continuous growth from 2018 to 2023, with a notable 
+                inflection point in 2020 due to the COVID-19 pandemic.<br>
+            2. The increase in energy generation from 2022 to 2023 was 7%.<br>
+            3. There has been an overall growth of 11.6% from 2018 to the present.<br>
+            4. The predominant electricity generation source in Mexico has been combined cycle, 
+            influencing over 50% of the country's total generation.<br>
+            5. On the other hand, the least influential sources have been internal combustion and biomass.<br>
+            6. Solar and wind energies have been gradually increasing their role in the country's electricity 
+            generation, although not at the expected pace. They are still far from being major contributors.
+          </div>
+        </div>
+      </div>
+    </div>
+    <br>
+
+    <!--This first row host bar and pie chart-->
+    <div class="row">
+      <div class="col-5">
+        <select class="form-select mb-2 bg-primary-subtle border p-2" aria-label="Default select example" 
+            id="userSelection" onchange="actualizarDatos()">
+          <option class='bg-dark p-2 text-white' selected>2018-2023</option>
+          <option class='bg-dark p-2 text-white' value="2018">2018</option>
+          <option class='bg-dark p-2 text-white' value="2019">2019</option>
+          <option class='bg-dark p-2 text-white' value="2020">2020</option>
+          <option class='bg-dark p-2 text-white' value="2021">2021</option>
+          <option class='bg-dark p-2 text-white' value="2022">2022</option>
+          <option class='bg-dark p-2 text-white' value="2023">2023</option> 
+        </select>
+        <p class="fs-4 fw-bold text-center">Energy produced by year</p>
+        <div id="barChart"></div>
+      </div>
+      <div class="col-1"></div>
+      <div class="col-6">
+        <p class="fs-4 fw-bold text-center">Energy produced by technology</p>
+        <div id="pieChart"></div>
+      </div> 
+    </div>
+
+    <!--This second row host scatter chart-->
+    <div class="row">
+      <div class="col-12">
+        <br><p class="fs-4 fw-bold text-center">Energy produced by technology from 2018-2023</p>
+        <div id="scatterChart"></div>
+      </div>
+    </div>
+    
+    <!--This third row host time series chart-->
+    <div class="row">
+      <div class="col-12">
+        <br><p class="fs-4 fw-bold text-center">Evolution of total Senergy produced from 2018-2023</p>
+        <div id="timeSeriesChart"></div>
+      </div>
+    </div>
+  </div> 
+
+  <!--D3 Libraries-->
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+    
+  <!-- Include external JavaScript file -->
+  <script src="static/js/plots.js"></script>
+    
+  <!--Bootstrap libraries-->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" 
+  integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" 
+  crossorigin="anonymous"></script>
+  
+</body>
+</html>
